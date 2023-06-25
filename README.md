@@ -1,1 +1,1 @@
-# Clon-Pinterest
+Adjunto el html y el CSS para el # Clon-Pinterest
